@@ -1,4 +1,4 @@
-Pineapple Lock Screen+ (Plus version) is a small, simple, clean, and fast application that helps you turn your phone screen off (lock screen) without using the physical power button. This could help you increase the life of your physical power button, just in case your power physical button is near broken.
+Pineapple Lock Screen+ (Plus version) is a small, simple, clean, and fast application that helps you turn your phone screen off (lock screen) without using the physical power button. This could help you increase the life of your physical power button, just in case your power physical button is nearly broken.
 
 This application makes use of the Android accessibility feature so it doesn't require root privilege to work.
 
@@ -10,6 +10,7 @@ FEATURES
 ✓ You can create a shortcut to lock the screen without opening the application
 ✓ Create shortcut without the app icon in the corner*
 ✓ [Plus version] Add Quick Settings tile to turn off the screen
+✓ [Plus version] Add widgets to turn off the screen
 ✓ Follow system color theme (light/dark)
 ✓ Doesn't require root
 ✓ No AD

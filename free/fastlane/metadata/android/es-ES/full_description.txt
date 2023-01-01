@@ -1,0 +1,24 @@
+Pineapple Lock Screen es una aplicación pequeña, simple, limpia y rápida que te ayuda a apagar la pantalla de tu teléfono (pantalla de bloqueo) sin usar el botón físico de encendido. Esto podría ayudarte a aumentar la vida de tu botón físico de encendido, en caso de que tu botón físico de encendido esté casi roto.
+
+Esta aplicación hace uso de la función de accesibilidad de Android, por lo que no requiere privilegios de root para funcionar.
+
+CARACTERÍSTICAS
+
+✓ Un toque para bloquear la pantalla
+✓ Puedes crear un acceso directo para bloquear la pantalla sin abrir la aplicación
+✓ Crea un acceso directo sin el icono de la aplicación en la esquina*.
+✓ Sigue el tema de color del sistema (claro/oscuro)
+✓ No requiere root
+✓ No hay AD
+
+USO
+
+Una vez instalada, es necesario habilitar su servicio de accesibilidad asociado para que funcione. Sólo hay que seguir la descripción de la aplicación y nada más que eso.
+
+Ten en cuenta que cada vez que reinicies o por cualquier otro motivo la aplicación se detenga a la fuerza, deberás volver a habilitar el servicio de accesibilidad.
+
+También puedes crear un acceso directo en tu lanzador para apagar la pantalla sin entrar en la aplicación, no es necesario y también puedes eliminar el acceso directo cuando ya no lo necesites.
+
+Si crees que esta aplicación es útil, considera obtener la versión Plus para apoyar el desarrollo y obtendrás algunas características experimentales extra: https://link.blumia.net/lockscreenplus-playstore
+
+* Esta característica requiere soporte de lanzador, probado bajo Pixel Launcher y Microsoft Launcher. El comportamiento se puede cambiar en la pantalla de ajustes de esta aplicación.
