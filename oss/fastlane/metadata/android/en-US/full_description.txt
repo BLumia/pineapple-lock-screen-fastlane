@@ -16,10 +16,11 @@ FEATURES
 
 USAGE
 
-Once installed, you need to enable its associated accessibility service to work. Just follow the in-application description and nothing more than that.
+Once installed, you need to enable its associated accessibility service to work. Just follow the in-application description and nothing more than that**.
 
 Please note that every time you reboot or for any other reason the application is force stopped, you need to re-enable the accessibility service.
 
 You can also create a shortcut on your launcher and/or add a Quick Settings tile to turn the screen off without entering the application, it's not required and you can also remove the shortcut when you no longer need it.
 
 * This feature requires launcher support, tested under Pixel Launcher and Microsoft Launcher. Behavior can be toggled in the Settings screen of this app.
+** Since Android 13, side-loaded package need user manually allow restricted settings before using the accessibility feature. You can learn more about it at https://support.google.com/android/answer/12623953 .
